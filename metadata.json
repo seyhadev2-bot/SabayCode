@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: Bilingual Coding Platform",
+  "description": "Bilingual (Khmer/English) Coding Learning Platform with interactive playground and complete curriculum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
